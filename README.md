@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow and Generative AI**
 
-- 💬 Ask me about **Tensorflow, Keras, Pandas and React, Next and NodeJS**
+- 💬 Ask me about **Tensorflow, Keras, PyTorch, Pandas, Matplotlib and Seaborn for *data analisys* and React, Next, NodeJS and Djando por *Web development* **
 
 - 📫 How to reach me **sergio.reyes.gajardo@gmail.com**
 
