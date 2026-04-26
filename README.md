@@ -38,7 +38,7 @@
 
 ## 📫 Conectemos / Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreyesgajardo/)
 ![Location](https://img.shields.io/badge/Temuco-Chile-blue?style=for-the-badge)
 
 ---
@@ -46,9 +46,9 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chechoreyes&show_icons=true&theme=radical" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechoreyes&layout=compact&theme=radical" alt="Langs" />
 </p>
 
 ---
